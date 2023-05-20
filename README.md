@@ -1,2 +1,1 @@
-# VSCode v Roblox
-A more simplistic way to program your Roblox game's script in Visual Studio Code.
+this is planned to be worked on soon, but is being put off for now, apologies
